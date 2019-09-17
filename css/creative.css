@@ -23,6 +23,22 @@ a {
   a:hover {
     color: #dc3545; }
 
+    .ml3 {
+  font-weight: 700;
+  font-size: 3.5em;
+}
+
+.ml12 {
+  font-weight: 250;
+  font-size: 1em;
+  letter-spacing: 0.25em;
+}
+
+.ml12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
 h1,
 h2,
 h3,
