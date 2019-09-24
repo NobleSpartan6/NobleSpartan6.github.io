@@ -29,14 +29,15 @@ a {
 }
 
 .ml12 {
-  font-weight: 250;
-  font-size: 1em;
-  letter-spacing: 0.25em;
+  font-weight: 300;
+  font-size: .85em;
+  letter-spacing: .15em;
+  padding: 1px 8px;
 }
 
 .ml12 .letter {
   display: inline-block;
-  line-height: 1em;
+  line-height: 2em;
 }
 
 h1,
