@@ -29,11 +29,12 @@ a {
 }
 
 .ml12 {
-  font-weight: 300;
-  font-size: .85em;
-  letter-spacing: .15em;
-  padding: 1px 8px;
-}
+  font-weight: 500;
+  font-size: 1em;
+  letter-spacing: .18em;
+  padding: 10px 14px;
+  }
+
 
 .ml12 .letter {
   display: inline-block;
