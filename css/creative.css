@@ -15,6 +15,7 @@ hr {
 hr.light {
   border-color: #fff; }
 
+
 a {
   color: #dc3545;
   -webkit-transition: all 0.2s;
@@ -57,7 +58,10 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
-
+.section-sponsors {
+padding-top: 2rem 0;
+padding-bottom: 2rem 0;
+}
 section {
   padding: 8rem 0; }
 
